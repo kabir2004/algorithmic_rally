@@ -19,18 +19,6 @@ Algorithmic Rally is a dynamic game where players control a paddle to hit a circ
 2. Install required packages: `pip install -r requirements.txt`
 3. Run the game: `python src/main.py`
 
-## Usage
-
-[Include instructions on how to play the game]
-
-## Contributing
-
-[Explain how others can contribute to your project]
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Contact
 
-[Your Name] - [your.email@example.com]
+[Kabir Saamir] - [kabir.saamir@gmail.com]
